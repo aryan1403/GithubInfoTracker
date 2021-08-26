@@ -27,7 +27,6 @@ public class HomePage {
         textField.setBorder(BorderFactory.createMatteBorder(0, 0, 2, 0, Color.white));
         textField.setBackground(new Color(23,23,23));
         textField.setForeground(Color.white);
-        //textField.addActionListener(this);
         textField.setLayout(null);
 
         JButton button = new JButton("GET");
